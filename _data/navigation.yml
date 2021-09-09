@@ -7,7 +7,7 @@ main:
   - title: "About"
     url: /
   - title: "Publication"
-    url: /
+    url: /publication/
   - title: "Tools"
     url: /
   - title: "CV"
