@@ -5,10 +5,12 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about/
+    url: /
   - title: "Publication"
-    url: https://yinghuah.github.io/
+    url: /
+  - title: "Tools"
+    url: /
   - title: "CV"
-    url: https://yinghuah.github.io/
+    url: /
   # - title: "Sitemap"
   #   url: /sitemap/

@@ -20,7 +20,7 @@ title                    : "Yinghua Hu's Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yinghua Hu"
-description              : "Ph.D. student @USC with research interest in Hardware Security."
+description              : # "Ph.D. student @USC with research interest in Hardware Security."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,26 +102,29 @@ analytics:
 # Site Author
 author:
   name             : "Yinghua Hu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Yinghua_Hu_profile.jpg"
   bio              : "Ph.D. student @USC with research interest in Hardware Security."
   location         : "Los Angeles, CA"
-  email            :
+  email            : # "yinghuah AT usc DOT edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: # "/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url:  "https://www.linkedin.com/in/yinghua-hu-861650123/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/jeff.yhhu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/yinghuah"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -132,12 +135,15 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url:  "https://www.linkedin.com/in/yinghua-hu-861650123/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url:  "https://www.facebook.com/jeff.yhhu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -287,10 +293,12 @@ defaults:
       comments: # true
       share: true
       related: true
-  # # _pages
-  # - scope:
-  #     path: ""
-  #     type: pages
-  #   values:
-  #     layout: single
-  #     author_profile: true
+# Defaults
+defaults:  
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
