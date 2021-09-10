@@ -4,6 +4,8 @@ classes: wide
 title-heading: false
 ---
 
+# Publication
+
 ## Book Chapters:
 
 [b1] **Y. Hu**, K. Yang, S. Nazarian, P. Nuzzo, “**SANSCrypt: Sporadic-Authentication-Based Sequential Logic Encryption**”, *VLSI-SoC: Design Trends*, Springer, 2021.
