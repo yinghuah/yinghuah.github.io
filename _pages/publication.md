@@ -1,9 +1,8 @@
 ---
 permalink: /publication/
 classes: wide
+title: null
 ---
-
-## Publication
 
 ## Book Chapters:
 
