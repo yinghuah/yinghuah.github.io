@@ -1,7 +1,7 @@
 ---
 permalink: /publication/
 classes: wide
-title-heading: false
+title: null
 ---
 
 # Publication
