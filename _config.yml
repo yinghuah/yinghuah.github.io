@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Yinghua Hu"
   avatar           : "/assets/images/Yinghua_Hu_profile.JPG"
-  bio              : "Ph.D. student @USC with research interest in Hardware Security."
+  bio              : "Ph.D. candidate @USC with research interest in Hardware Security."
   location         : "Los Angeles, CA"
   email            : # "yinghuah AT usc DOT edu"
   links:
@@ -119,6 +119,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url:  "https://www.linkedin.com/in/yinghua-hu-861650123/"
+    # - label: "Google Scholar"
+    #   icon: "ai ai-google-scholar"
+    #   # url:  "https://www.linkedin.com/in/yinghua-hu-861650123/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/jeff.yhhu"
@@ -129,6 +132,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+
 # Site Footer
 footer:
   links:
@@ -138,6 +142,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url:  "https://www.linkedin.com/in/yinghua-hu-861650123/"
+    # - label: "Google Scholar"
+    #   icon: "ai ai-google-scholar"
+    #   url:  "https://www.linkedin.com/in/yinghua-hu-861650123/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url:  "https://www.facebook.com/jeff.yhhu"
