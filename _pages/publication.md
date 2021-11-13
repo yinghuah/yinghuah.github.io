@@ -12,6 +12,8 @@ title: null
 
 ## Conference Papers: 
 
+[c8] Y. Zhang, **Y. Hu**, P. Nuzzo, P. A. Beerel, “**TriLock: IC Protection with Tunable Corruptibility and Resilience to SAT and Removal Attacks**”, *IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE)*, Mar. 2022. \[To appear\]
+
 [c7] **Y. Hu**, Y. Zhang, K. Yang, D. Chen, P. A. Beerel, P. Nuzzo, “**[Fun-SAT: Functional Corruptibility-Guided SAT-Based Attack on Sequential Logic Encryption](https://arxiv.org/abs/2108.04892)**”, *IEEE International Symposium on Hardware Oriented Security and Trust (HOST)*, Dec. 2021.
 
 [c6] S. Dutta Chowdhury, G. Zhang, **Y. Hu**, P. Nuzzo, “**[Enhancing SAT-Attack Resiliency and Cost-Effectiveness of Reconfigurable-Logic-Based Circuit Obfuscation](https://ieeexplore.ieee.org/abstract/document/9401458)**”, *IEEE International Symposium on Circuits and Systems (ISCAS)*, May. 2021.
