@@ -1,5 +1,0 @@
----
-permalink: /about/
----
-
-I am ...
