@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Paper accepted at DATE 2022"
-# author_profile: true
+author_profile: true
 classes: wide
 show_date: true
 ---

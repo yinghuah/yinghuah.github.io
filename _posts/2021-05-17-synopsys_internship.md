@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "First day of internship at Synopsys"
-# author_profile: true
+author_profile: true
 classes: wide
 show_date: true
 ---
