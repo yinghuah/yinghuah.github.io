@@ -10,7 +10,7 @@ main:
     url: /publication/
   - title: "Tools"
     url: /tool/
-  - title: "CV"
-    url: /
+  # - title: "CV"
+  #   url: /
   # - title: "Sitemap"
   #   url: /sitemap/
