@@ -139,6 +139,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "/contact/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url:  "https://www.linkedin.com/in/yinghua-hu-861650123/"
