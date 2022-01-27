@@ -12,7 +12,7 @@ main:
     url: /tool/
   - title: "Contact"
     url: /contact/
-  # - title: "CV"
-  #   url: /
+  - title: "CV"
+    url: /assets/images/CV_Yinghua.pdf
   # - title: "Sitemap"
   #   url: /sitemap/
