@@ -6,5 +6,20 @@
 
 $info-color: #458ef7 !default;
 
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+body {
+  margin: 0;
+  padding: 0;
+  color: $text-color;
+  font-family: $global-font-family;
+  line-height: 1.5;
+  font-size: 0.8em;
+
+  &.overflow--hidden {
+    /* when primary navigation is visible, the content in the background won't scroll */
+    overflow: hidden;
+  }
+}
