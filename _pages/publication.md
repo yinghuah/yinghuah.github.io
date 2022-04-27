@@ -44,7 +44,7 @@ V. Venugopalan, G. Kolhe, A. Schmidt, J. Monson, M. French, **Y. Hu**, P. A. Bee
 
 ## Demos & Posters:
 
-[p2] **Circumventing Machine Learning-Based Attacks to Logic Locking**\
+[p2] [**Circumventing Machine Learning-Based Attacks to Logic Locking**](https://59dac.conference-program.com/presentation/?id=WIP207&sess=sess264)\
 **Y. Hu**, S. Dutta Chowdhury, K. Yang, M. Munir, J. Bollareddy, P. Nuzzo, *Design Automation Conference (DAC)*, July 2022. 
 
 [d1] **MIRAGE: A System-Level Framework for Inserting and Evaluating Logic Obfuscation**\
