@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yinghua Hu"
+title                    : "Yinghua Hu, Ph.D."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yinghua Hu"
+name                     : "Yinghua Hu, Ph.D."
 description              : # "Ph.D. student @USC with research interest in Hardware Security."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yinghua Hu"
+  name             : "Yinghua Hu, Ph.D."
   avatar           : "/assets/images/Yinghua_Hu_profile.JPG"
-  bio              : "Ph.D. Candidate @USC, Ex-Security Research Intern @Intel"
-  location         : "Los Angeles, CA"
+  bio              : "Incoming Senior Sofware R&D Engineer I @Synopsys, Inc."
+  location         : "Mountain View, CA"
   email            : # "yinghuah AT usc DOT edu"
   links:
     - label: "Email"
