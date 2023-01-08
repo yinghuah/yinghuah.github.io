@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Yinghua Hu, Ph.D."
   avatar           : "/assets/images/Yinghua_Hu_profile.JPG"
-  bio              : "Incoming Senior Sofware R&D Engineer I @Synopsys, Inc."
-  location         : "Mountain View, CA"
-  email            : # "yinghuah AT usc DOT edu"
+  bio              : "Senior Software (R&D) Engineer I @Synopsys, Inc."
+  location         : "Sunnyvale, CA"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
