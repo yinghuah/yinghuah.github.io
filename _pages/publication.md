@@ -11,6 +11,11 @@ title: null
 [b1] [**SANSCrypt: Sporadic-Authentication-Based Sequential Logic Encryption**](https://doi.org/10.1007/978-3-030-81641-4_12)\
 **Y. Hu**, K. Yang, S. Nazarian, P. Nuzzo, *VLSI-SoC: Design Trends*, Springer, 2021. 
 
+## Journal Papers: 
+
+[j1] **On the Security of Sequential Logic Locking Against Oracle-Guided Attacks**\
+**Y. Hu**, Y. Zhang, K. Yang, D. Chen, P. A. Beerel, P. Nuzzo, *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems (TCAD)*, to appear. 
+
 ## Conference Papers: 
 
 [c9] [**TriLock: IC Protection with Tunable Corruptibility and Resilience to SAT and Removal Attacks**](https://doi.org/10.23919/DATE54114.2022.9774649)\
