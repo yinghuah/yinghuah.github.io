@@ -6,9 +6,11 @@ main:
     url: /
   # - title: "About"
   #   url: /
-  - title: "Publications"
+  - title: "Publication"
     url: /publication/
-  - title: "Tools"
+  - title: "Professional Activity"
+    url: /professional_activity/
+  - title: "Tool"
     url: /tool/
   - title: "Contact"
     url: /contact/

@@ -4,7 +4,7 @@ classes: wide
 title: null
 ---
 
-# Tools
+# Tool
 
 ## Fun-SAT [[code]](https://github.com/descyphy/Fun-SAT)
 

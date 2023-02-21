@@ -4,7 +4,7 @@ classes: wide
 title: null
 ---
 
-# Publications
+# Publication
 
 ## Book Chapters:
 
