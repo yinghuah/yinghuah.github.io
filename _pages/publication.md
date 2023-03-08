@@ -13,8 +13,8 @@ title: null
 
 ## Journal Papers: 
 
-[j1] **On the Security of Sequential Logic Locking Against Oracle-Guided Attacks**\
-**Y. Hu**, Y. Zhang, K. Yang, D. Chen, P. A. Beerel, P. Nuzzo, *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems (TCAD)*, to appear. 
+[j1] [**On the Security of Sequential Logic Locking Against Oracle-Guided Attacks**](https://doi.org/10.1109/TCAD.2023.3253428)\
+**Y. Hu**, Y. Zhang, K. Yang, D. Chen, P. A. Beerel, P. Nuzzo, *IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems (TCAD)*, 2023. 
 
 ## Conference Papers: 
 
