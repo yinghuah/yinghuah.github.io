@@ -6,5 +6,9 @@ title: null
 
 # Professional Service
 
-- Technical Program Committee Member - HOST 2023
+- External Reviewer
+	- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+
+- Technical Program Committee
+	- HOST 2023: Member
 
