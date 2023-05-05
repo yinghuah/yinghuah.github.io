@@ -18,6 +18,9 @@ title: null
 
 ## Conference Papers: 
 
+[c10] [**Unraveling Latch Locking Using Machine Learning, Boolean Analysis, and ILP**](https://arxiv.org/abs/2305.00107)\
+D. Chen, X. Zhou, **Y. Hu**, Y. Zhang, K. Yang, A. Rittenbach, P. Nuzzo, P. A. Beerel, *International Symposium on Quality Electronic Design (ISQED)*, Apr. 2023. 
+
 [c9] [**TriLock: IC Protection with Tunable Corruptibility and Resilience to SAT and Removal Attacks**](https://doi.org/10.23919/DATE54114.2022.9774649)\
 Y. Zhang<sup>\*</sup>, **Y. Hu**<sup>\*</sup>, P. Nuzzo, P. A. Beerel, *IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE)*, Mar. 2022. 
 
