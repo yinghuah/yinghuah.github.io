@@ -6,9 +6,14 @@ title: null
 
 # Professional Service
 
-- External Reviewer
-	- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+- **Technical Program Committee Member**
+	- IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2023
 
-- Technical Program Committee
-	- HOST 2023: Member
+- **Session Chair**
+	- IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2023
 
+- **Hardware Demo Judge**
+	- IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2023
+
+- **External Reviewer**
+	- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023
