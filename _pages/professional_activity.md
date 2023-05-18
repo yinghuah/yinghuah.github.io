@@ -17,3 +17,4 @@ title: null
 
 - **External Reviewer**
 	- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023
+	- IEEE Access, 2023
