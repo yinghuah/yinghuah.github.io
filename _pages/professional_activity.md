@@ -8,6 +8,8 @@ title: null
 
 - **Technical Program Committee Member**
 	- IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2023
+	- IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2023
+
 
 - **Session Chair**
 	- IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2023

@@ -52,6 +52,9 @@ V. Venugopalan, G. Kolhe, A. Schmidt, J. Monson, M. French, **Y. Hu**, P. A. Bee
 
 ## Demos & Posters:
 
+[p3] **Security-Driven Design of Logic Locking Schemes: Metrics, Attacks, and Defenses**\
+**Y. Hu**, *Design Automation Conference (DAC)*, July 2023. (Ph.D. Forum Presentation)
+
 [p2] [**Circumventing Machine Learning-Based Attacks to Logic Locking**](https://59dac.conference-program.com/presentation/?id=WIP207&sess=sess264)\
 **Y. Hu**, S. Dutta Chowdhury, K. Yang, M. Munir, J. Bollareddy, P. Nuzzo, *Design Automation Conference (DAC)*, July 2022. 
 
