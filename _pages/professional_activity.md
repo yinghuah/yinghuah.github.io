@@ -19,4 +19,5 @@ title: null
 
 - **External Reviewer**
 	- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+	- IEEE Transactions on VLSI Systems (TVLSI)
 	- IEEE Access
