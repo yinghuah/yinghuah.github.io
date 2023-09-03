@@ -7,7 +7,7 @@ title: null
 # Professional Service
 
 - **Technical Program Committee Member**
-	- IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2023
+	- IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2023-2024
 	- IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2023
 
 
