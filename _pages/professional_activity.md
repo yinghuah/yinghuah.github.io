@@ -9,6 +9,7 @@ title: null
 - **Technical Program Committee Member**
 	- IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2023-2024
 	- IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2023
+	- Design Automation Conference (DAC), 2024
 	- International Symposium on Quality Electronic Design (ISQED), 2024
 
 - **Session Chair**
