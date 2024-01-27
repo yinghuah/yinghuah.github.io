@@ -18,11 +18,14 @@ title: null
 
 ## Conference Papers: 
 
+[c11] [**DECOR: Enhancing Logic Locking Against Machine Learning-Based Attacks**](/publication/)\
+**Y. Hu**, K. Yang, S. Dutta Chowdhury, P. Nuzzo, *International Symposium on Quality Electronic Design (ISQED)*, Apr. 2024. 
+
 [c10] [**Unraveling Latch Locking Using Machine Learning, Boolean Analysis, and ILP**](https://arxiv.org/abs/2305.00107)\
 D. Chen, X. Zhou, **Y. Hu**, Y. Zhang, K. Yang, A. Rittenbach, P. Nuzzo, P. A. Beerel, *International Symposium on Quality Electronic Design (ISQED)*, Apr. 2023. 
 
 [c9] [**TriLock: IC Protection with Tunable Corruptibility and Resilience to SAT and Removal Attacks**](https://doi.org/10.23919/DATE54114.2022.9774649)\
-Y. Zhang<sup>\*</sup>, **Y. Hu**<sup>\*</sup>, P. Nuzzo, P. A. Beerel, *IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE)*, Mar. 2022. 
+Y. Zhang<sup>\*</sup>, **Y. Hu**<sup>\*</sup>, P. Nuzzo, P. A. Beerel, *IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE)*, Mar. 2022. [[code]](https://github.com/zyk101177/TriLock)
 
 [c8] [**Fun-SAT: Functional Corruptibility-Guided SAT-Based Attack on Sequential Logic Encryption**](https://doi.org/10.1109/HOST49136.2021.9702267)\
 **Y. Hu**<sup>\*</sup>, Y. Zhang<sup>\*</sup>, K. Yang, D. Chen, P. A. Beerel, P. Nuzzo, *IEEE International Symposium on Hardware Oriented Security and Trust (HOST)*, Dec. 2021. [[code]](https://github.com/descyphy/Fun-SAT)
