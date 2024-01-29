@@ -12,8 +12,8 @@ main:
     url: /professional_activity/
   - title: "Tool"
     url: /tool/
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
   - title: "CV"
     url: /assets/images/CV_Yinghua.pdf
   # - title: "Sitemap"
