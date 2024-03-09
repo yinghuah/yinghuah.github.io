@@ -18,7 +18,7 @@ title: null
 
 ## Conference Papers: 
 
-[c11] [**DECOR: Enhancing Logic Locking Against Machine Learning-Based Attacks**](/publication/)\
+[c11] [**DECOR: Enhancing Logic Locking Against Machine Learning-Based Attacks**](https://arxiv.org/abs/2403.01789)\
 **Y. Hu**, K. Yang, S. Dutta Chowdhury, P. Nuzzo, *International Symposium on Quality Electronic Design (ISQED)*, Apr. 2024. 
 
 [c10] [**Unraveling Latch Locking Using Machine Learning, Boolean Analysis, and ILP**](https://arxiv.org/abs/2305.00107)\
