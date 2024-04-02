@@ -18,6 +18,9 @@ title: null
 
 ## Conference Papers: 
 
+[c12] [**Late Breaking Results: On the One-Key Premise of Logic Locking**](/publication/)\
+**Y. Hu**, H. Cherupalli, M. Borza, D. Sherlekar, *Design Automation Conference (DAC)*, June 2024.
+
 [c11] [**DECOR: Enhancing Logic Locking Against Machine Learning-Based Attacks**](https://arxiv.org/abs/2403.01789)\
 **Y. Hu**, K. Yang, S. Dutta Chowdhury, P. Nuzzo, *International Symposium on Quality Electronic Design (ISQED)*, Apr. 2024. 
 
