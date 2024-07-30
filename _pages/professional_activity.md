@@ -29,3 +29,4 @@ title: null
 	- IEEE Access
 	- ACM Transactions on Embedded Computing Systems (TECS)
 		- Special Issue on Open Hardware for Embedded System Security and Cryptography
+    - Journal of Hardware and Systems Security
