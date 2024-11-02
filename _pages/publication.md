@@ -6,10 +6,11 @@ title: null
 
 # Publication
 
-## Ph.D. Thesis:
+## Doctoral Thesis:
 
 [**Security-Driven Design of Logic Locking Schemes: Metrics, Attacks, and Defenses**](https://www.proquest.com/dissertations-theses/security-driven-design-logic-locking-schemes/docview/3120745763/se-2)\
-**Y. Hu**, *University of Southern California*, Dec. 2022.
+**Y. Hu**, *University of Southern California*, Los Angeles, CA, USA, Dec. 2022.\
+Committee: Pierluigi Nuzzo (chair), Peter A. Beerel, and Chao Wang. 
 
 ## Book Chapters:
 
