@@ -6,6 +6,11 @@ title: null
 
 # Publication
 
+## Ph.D. Thesis:
+
+[**Security-Driven Design of Logic Locking Schemes: Metrics, Attacks, and Defenses**](https://www.proquest.com/dissertations-theses/security-driven-design-logic-locking-schemes/docview/3120745763/se-2)\
+**Y. Hu**, *University of Southern California*, Dec. 2022.
+
 ## Book Chapters:
 
 [b1] [**SANSCrypt: Sporadic-Authentication-Based Sequential Logic Encryption**](https://doi.org/10.1007/978-3-030-81641-4_12)\
