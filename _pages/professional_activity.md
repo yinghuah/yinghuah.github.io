@@ -25,6 +25,7 @@ title: null
 - **External Reviewer**
 	- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 	- IEEE Transactions on VLSI Systems (TVLSI)
+	- IEEE Transactions on Information Forensics and Security
 	- IEEE Transactions on Circuits and Systems Part II: Express Briefs (TCAS-II)
 	- IEEE Access
 	- ACM Transactions on Embedded Computing Systems (TECS)
