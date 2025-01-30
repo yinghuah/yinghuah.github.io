@@ -14,6 +14,9 @@ Committee: Pierluigi Nuzzo (chair), Peter A. Beerel, and Chao Wang.
 
 ## Book Chapters:
 
+[b2] [**Machine Learning-Enhanced Analysis and Design for Trustworthy Integrated Circuits**](https://doi.org/10.1007/978-3-031-71436-8_13)\
+K. Yang, **Y. Hu**, D. Chen, C. Lin, Y. Yi, P. A. Beerel, P. Nuzzo, *AI-Enabled Electronic Circuit and System Design*, Springer, 2025. 
+
 [b1] [**SANSCrypt: Sporadic-Authentication-Based Sequential Logic Encryption**](https://doi.org/10.1007/978-3-030-81641-4_12)\
 **Y. Hu**, K. Yang, S. Nazarian, P. Nuzzo, *VLSI-SoC: Design Trends*, Springer, 2021. 
 
